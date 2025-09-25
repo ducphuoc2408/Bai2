@@ -130,7 +130,7 @@ body{
 }
 .text p{
     font-style: italic;
-    text-align: left;
+    text-align: justify;
     font-size: 18px;
     font-weight: 600;
 }
@@ -164,7 +164,7 @@ body{
 
 .content-four-left p{
     color: #F5F5F5;
-    text-align: left;
+    text-align: justify;
     font-size: 18px;
 }
 
